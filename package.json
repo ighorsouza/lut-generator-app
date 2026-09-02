@@ -1,0 +1,13 @@
+{
+  "name": "omni-prompt-generator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Gerador de prompts em 7 etapas para vídeos no Omni/Flow, com integração opcional à OpenAI.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
